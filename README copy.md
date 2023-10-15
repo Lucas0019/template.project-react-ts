@@ -1,4 +1,4 @@
-# Template | Project React + TypeScript
+# Template | Project React
 
 ## Features
 
